@@ -15,9 +15,6 @@ interests:
   - Lab-on-chip device
   - Analytical chemistry
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "#contact"
   - icon: researchgate
     icon_pack: fas
     link: https://www.researchgate.net/profile/Chang_Chen16
@@ -27,6 +24,9 @@ social:
   - icon: weixin
     link: "735139221"
     icon_pack: fas
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
 education:
   courses:
     - course: Master of Engineering
