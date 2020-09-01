@@ -3,7 +3,7 @@ title: Chang Chen
 role: Research Assistant
 avatar_filename: 32c2-fwnpcnt0974495.jpg
 organizations:
-  - name: Stanford University
+  - name: Peking University
     url: ""
 superuser: true
 authors:
@@ -28,16 +28,13 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: Master of Engineering
+      institution: Harbin Institute of Technology, Shenzhen
+      year: 2019
+    - course: "Bachelor of Engineering "
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+      year: 2016
+email: chenchang@stu.hit.edu.cn
 user_groups:
   - Researchers
   - Visitors
