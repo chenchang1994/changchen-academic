@@ -1,7 +1,7 @@
 ---
 title: Chang Chen
 role: Research Assistant
-avatar_filename: 蓝底大图.jpg
+avatar_filename: ""
 organizations:
   - name: Peking University
     url: ""
@@ -19,7 +19,7 @@ social:
     icon_pack: fas
     link: "#contact"
   - icon: Researchgate
-    icon_pack: fab
+    icon_pack: fas
     link: https://www.researchgate.net/profile/Chang_Chen16
   - icon: google-scholar
     icon_pack: ai
