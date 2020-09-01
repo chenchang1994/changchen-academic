@@ -18,15 +18,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
+  - icon: Researchgate
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.researchgate.net/profile/Chang_Chen16
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com.hk/citations?hl=zh-CN&user=T1PuhCcAAAAJ
 education:
   courses:
     - course: Master of Engineering
