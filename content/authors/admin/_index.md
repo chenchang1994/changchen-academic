@@ -12,7 +12,8 @@ bio: My research interests include microfluidics, lab-on-chip device and
   analytical chemistry.
 interests:
   - Microfluidics
-  - Lab-on-chip device and Analytical chemistry.
+  - Lab-on-chip device
+  - Analytical chemistry.
 social:
   - icon: envelope
     icon_pack: fas
