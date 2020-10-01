@@ -1,7 +1,7 @@
 ---
 title: Chang Chen
 role: Research Assistant
-avatar_filename: ""
+avatar_filename: 下载.jpg
 organizations:
   - name: Peking University
     url: ""
